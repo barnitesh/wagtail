@@ -130,9 +130,6 @@ You might like to start by reviewing the [contributing guidelines](https://docs.
 
 We also welcome translations for Wagtail's interface. Translation work should be submitted through [Transifex](https://explore.transifex.com/torchbox/wagtail/).
 
-### 🔓 License
-
-[BSD](https://github.com/wagtail/wagtail/blob/main/LICENSE) - Free to use and modify for any purpose, including both open and closed-source code.
 
 ### 👏 Thanks
 
